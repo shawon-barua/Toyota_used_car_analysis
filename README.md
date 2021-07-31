@@ -1,5 +1,5 @@
 # Toyota_used_car_analysis
-This repository is for data visualization
+This repository is for data visualization.
 Here we explored and visualized data by - 
 -
 - Scatter plot
